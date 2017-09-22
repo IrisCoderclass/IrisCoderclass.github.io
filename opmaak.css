@@ -1,14 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 
 * {
   margin: 0px;
   padding: 0px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
-
 body {
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-family: Open-Sans, Verdana, Geneva, Arial, Helvetica, sans-serif;
   background-color: #425087;
 }
 
