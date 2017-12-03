@@ -116,7 +116,7 @@ function draw() {
       alert("NEVER GONNA LET YOU DOWN.")
     }
     else if (keyIsDown(77)){
-      window.location = "sindex.html"
+      window.location = "ra.html"
     }
     image(theimg, 0, 0)
 
