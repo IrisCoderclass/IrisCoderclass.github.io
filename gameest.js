@@ -126,7 +126,7 @@ function draw() {
     }
     if(keyIsDown(82)){
       if(keyIsDown(65)){
-      alert("*DOES NOT WORK IN GOOGLE CHROME* Performing this action(pressing R & A at the same time) in the first level will activate a very nice easter egg, it's Rick Astley, however you will be asked a question first if you answer never gonna give you up you will be able to escape the Rick Astley easter egg.")
+      alert("Performing this action(pressing R & A at the same time) in the first level will activate a very nice easter egg, it's Rick Astley, however you will be asked a question first if you answer never gonna give you up you will be able to escape the Rick Astley easter egg.")
       }
       }
       background(35,6,64);
@@ -169,7 +169,7 @@ function draw() {
       points = points + 1
     }
     if (points == 150){
-      alert("*DOES NOT WORK IN GOOGLE CHROME* Performing this action(pressing R & A at the same time) in the first level will activate a very nice easter egg, it's Rick Astley, however you will be asked a question first, if you answer never gonna give you up, you will be able to escape the Rick Astley easter egg.")
+      alert("Performing this action(pressing R & A at the same time) in the first level will activate a very nice easter egg, it's Rick Astley, however you will be asked a question first, if you answer never gonna give you up, you will be able to escape the Rick Astley easter egg.")
       alert("Redirecting back to first level.")
       points = points + 1
     }
