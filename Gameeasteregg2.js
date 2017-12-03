@@ -116,7 +116,7 @@ function draw() {
       alert("NEVER GONNA LET YOU DOWN.")
     }
     else if (keyIsDown(77)){
-      window.location = "sindex.html"
+      window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
     image(theimg, 0, 0)
 
