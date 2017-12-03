@@ -1,0 +1,29 @@
+a {
+  color: white;
+  text-decoration: none;
+  border: 5px solid white;
+  background-color: #00026d
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+  border: 5px solid white;
+  background-color: #7F7FB6
+}
+a:active {
+  color: white;
+  text-decoration: none;
+  border: 5px solid white;
+  background-color: #E7EB86;
+}
+body {
+  background-color: #230640
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+}
